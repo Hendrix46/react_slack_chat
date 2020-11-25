@@ -23,6 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 /database.rules.json
 /firebase.json
-/.firebaserc
 /src/firebase.js
 storage.rules
